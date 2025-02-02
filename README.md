@@ -9,9 +9,9 @@ It monitors hotkeys clicks using the windows API and modifies the windows termin
 
 1. Install and unzip the archive from [releases](https://github.com/sw3zeg/WindowsTerminal_HorizontalScrolling/releases)
 
-- If If you have installed .NET 9.0 -- "WT_HorizontalScrolling_NET9.rar".
+- If you have installed .NET 9.0 -- "WT_HorizontalScrolling_NET9.rar".
 
-- If If you don't have it installed -- "WT_HorizontalScrolling_x64.rar".
+- If you don't have it installed -- "WT_HorizontalScrolling_x64.rar".
 
 2. Run "Start_WTHorizontalScrolling.bat".
 
