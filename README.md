@@ -52,3 +52,4 @@ Applies the settings and starts/restarts the application.
 
 ![ezgif-2f019affa3c84](https://github.com/user-attachments/assets/6788fe2e-5f84-4529-ad2b-bc899d121e03)
 
+![Без имени](https://github.com/user-attachments/assets/a0328b78-7aa1-45df-a4fa-deb5b09451ee)
