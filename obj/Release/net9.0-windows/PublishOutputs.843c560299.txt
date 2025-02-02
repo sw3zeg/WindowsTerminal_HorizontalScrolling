@@ -1,0 +1,6 @@
+C:\main\apps\csharp\1\WindowsTerminal_HorizontalScrolling\bin\WindowsTerminal_HorizontalScrolling.exe
+C:\main\apps\csharp\1\WindowsTerminal_HorizontalScrolling\bin\WindowsTerminal_HorizontalScrolling.dll
+C:\main\apps\csharp\1\WindowsTerminal_HorizontalScrolling\bin\WindowsTerminal_HorizontalScrolling.deps.json
+C:\main\apps\csharp\1\WindowsTerminal_HorizontalScrolling\bin\WindowsTerminal_HorizontalScrolling.runtimeconfig.json
+C:\main\apps\csharp\1\WindowsTerminal_HorizontalScrolling\bin\WindowsTerminal_HorizontalScrolling.pdb
+C:\main\apps\csharp\1\WindowsTerminal_HorizontalScrolling\bin\Newtonsoft.Json.dll

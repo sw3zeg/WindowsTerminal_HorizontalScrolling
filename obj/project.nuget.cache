@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDdrjTpBKdY=",
+  "success": true,
+  "projectFilePath": "C:\\main\\apps\\csharp\\1\\WindowsTerminal_HorizontalScrolling\\WindowsTerminal_HorizontalScrolling\\WindowsTerminal_HorizontalScrolling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sw3ze\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
